@@ -1,2 +1,3 @@
-# themes-scss
-themes colors in scss from flat ui colors
+# Themes SCSS
+
+Themes colors in SCSS from flat UI colors.
